@@ -1,4 +1,5 @@
 # User Added
+node_modules/
 .vscode
 package-lock.json
 static/CACHE
