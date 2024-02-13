@@ -4,6 +4,10 @@
 
 - Author: Ekow Yawson
 
+### Overview
+
+This is a page dedicated to all things snacks. Stay tuned...
+
 ### Links and Resources
 
 - [Getting started with Django](https://www.djangoproject.com/start/)
@@ -18,4 +22,20 @@
 
 ### How to initialize/run your application
 
+To run this app, you must:
+
+- Create a Python virtual environment.
+- Enter the virtual environment.
+- Run `pip install -r requirements.txt`
+- Run the server with: `python manage.py runserver`
+- Follow the link provided in the CLI.
+
+**Note**: This is a development build. Do not run it in Production.
+
 ### Tests
+
+To run the contained tests, issue the following command in the CLI:
+
+```python
+python manage.py test
+```
